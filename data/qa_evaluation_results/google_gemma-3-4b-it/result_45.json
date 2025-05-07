@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmOiEs3FTmcnO5SLl5ZxCK1dxUa",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 산세베리아의 공기정화 효과에 대한 정확한 정보를 제공합니다. 포름알데히드, 벤젠, 자일렌, 트리클로로에틸렌 등 유해한 휘발성 유기 화합물(VOCs)을 제거하는 능력에 대한 명확한 설명이 포함되어 있으며, 추가 정보도 신뢰할 수 있는 내용을 담고 있습니다. 이러한 정보는 참조 답변의 내용과 일치하며, 산세베리아의 공기정화 능력에 대한 깊이 있는 이해를 제공합니다.\n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 적절하고 유용합니다. 식물의 공기정화 능력에 대한 기본적인 사실 외에도 산세베리아의 특징, 관리주의 사항, 추가 정보 등을 제공하여 독자가 더욱 깊이 있는 이해를 할 수 있도록 돕고 있습니다. 특히, 공기정화 능력에 대한 과학적 근거 및 식물 관리 팁이 포함되어 있어 실용적인 조언으로도 유용합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192704,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 249,
+        "prompt_tokens": 593,
+        "total_tokens": 842,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

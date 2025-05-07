@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSl1uZcOKMIAW2mxs9da7eHvhEIEt",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 1점  \n모델의 답변은 산세베리아와 관련된 정보가 전혀 없으며, 대신 청소 도구에 대한 이야기를 하고 있습니다. 따라서 식물에 대한 정보가 정확하지 않습니다. \n\n2. 답변 적절성: 1점  \n모델의 답변은 질문과 완전히 관련이 없으며, 산세베리아의 공기 정화 효과에 대한 정보는 제공하지 않습니다. 질문에 대한 답변이라고 볼 수 없으므로 매우 낮은 점수를 부여합니다. \n\n종합적으로 모델의 답변은 질문에 대한 적절하고 유용한 정보를 제공하지 못했습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746193666,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 146,
+        "prompt_tokens": 332,
+        "total_tokens": 478,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

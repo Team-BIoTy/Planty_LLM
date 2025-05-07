@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmIpyco6I1eLAm49w00WVzv2vj9",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 해당 없음  \n설명: 모델의 답변은 식물과 관련된 정보가 아닌 건물과 관련된 상황을 다루고 있습니다. 따라서 식물 정보의 정확성 기준은 해당되지 않습니다.\n\n2. 답변 적절성: 3/10  \n설명: 모델의 답변은 과습의 징후에 대한 질문에 대해 전반적인 습기 문제를 언급하면서 상세한 설명을 제공하고 있지만, 대부분 식물과 관련이 없는 내용입니다. 질문이 식물 관련임에도 불구하고 답변은 건물의 과습 문제에 초점을 맞추고 있어 질문에 대한 적절성은 낮습니다. 식물에 대한 과습의 증상에 대한 정보를 제공하는 데 실패했습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192698,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 168,
+        "prompt_tokens": 777,
+        "total_tokens": 945,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

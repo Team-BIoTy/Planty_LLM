@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmIMHMzoGzVAHtaWsfgxJAziWa7",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 허브 식물에 대한 정확하고 상세한 정보를 포함하고 있습니다. 햇빛, 온도, 토양, 물주기 및 기타 고려 사항에 대해 다양한 허브 식물의 필요를 구체적으로 설명하며, 이는 참조 답변에서 언급된 내용과 일치합니다. \n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 매우 적절하고 유용합니다. 허브 식물의 환경을 키우기 위한 구체적인 조건들을 여러 측면에서 설명하고 있어, 사용자가 허브 식물을 잘 기르기 위한 실질적인 정보를 제공합니다.\n\n종합 점수: 10점",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192698,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 160,
+        "prompt_tokens": 734,
+        "total_tokens": 894,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

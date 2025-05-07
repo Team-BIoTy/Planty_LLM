@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSl1qd0eeBWyItfDVwgvhATa5L1HZ",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 해당 없음  \n이 질문과 답변은 식물에 대한 것이지만, 모델의 답변은 반려견의 식사와 관련된 내용으로, 식물에 관한 정보가 전혀 포함되어 있지 않습니다. \n\n2. 답변 적절성: 1점  \n모델의 답변은 질문에 적절하지 않고, 식물 관리와 관련된 내용 대신 반려견의 식사 관리에 대한 정보를 제공하고 있습니다. 질문에 대한 대답으로 적합하지 않으며, 사용자가 필요로 하는 정보와는 완전히 다른 주제를 다루고 있습니다. \n\n종합적으로 볼 때, 모델의 응답은 질문에 대해 유용한 정보를 제공하지 못하므로 낮은 점수를 부여합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746193662,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 166,
+        "prompt_tokens": 458,
+        "total_tokens": 624,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

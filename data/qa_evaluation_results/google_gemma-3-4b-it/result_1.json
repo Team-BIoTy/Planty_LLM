@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmIwl6mNNdrnGiQIv6qGvAjEymF",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. **식물 정보 정확성: 1점**  \n   모델의 답변은 주제와 전혀 관련이 없고, 분갈이와 관련된 내용이 아니라 동물의 치아 건강 관리를 다루고 있습니다. 질문이 식물에 관한 것이므로, 이 역시 완전히 관련이 없는 정보입니다.\n\n2. **답변 적절성: 1점**  \n   모델의 답변은 질문에 대한 적절한 정보를 제공하지 않으며, 식물 관련 질문에 엉뚱한 정보를 담고 있어 전혀 유용하지 않습니다. 일반적으로 기대되는 정보와는 거리가 멉니다.\n\n종합적으로, 모델의 답변은 질문의 맥락과 내용에 대해 완전히 부적합합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192698,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 163,
+        "prompt_tokens": 614,
+        "total_tokens": 777,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

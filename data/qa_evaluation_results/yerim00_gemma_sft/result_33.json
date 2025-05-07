@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr01j1n3Rd4s0yysTHs2Y29tUmK",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 9/10\n   - 모델의 답변은 실내 작물의 해충 문제 해결과 관련하여 매우 포괄적이고 구체적인 정보를 제공합니다. 예방 조치와 해충 발견 시 조치에 대한 다양한 방법을 언급하며, 건강한 작물 관리와 해충 종류의 파악 등도 포함되어 있습니다. 다만 '친환경적인 방제 방법 우선'이 중단된 채로 끝났다는 점에서 다소 미흡함이 있어 1점을 감점했습니다.\n\n2. 답변 적절성: 10/10\n   - 모델의 답변은 질문에 대해 매우 적절하고 유용합니다. 해충 문제를 예방하고 발견한 경우 대처하는 방법을 잘 정리하여 제공하고 있어, 질문자의 문제 해결에 실질적인 도움을 줄 수 있습니다. 전반적으로 질적인 측면에서 완벽하게 대응하였습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192990,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 201,
+        "prompt_tokens": 757,
+        "total_tokens": 958,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr0X6ZmOlxm3yr6XZ6mbXEzy0Hi",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 2/10  \n모델의 답변은 분갈이에 대한 식물 관련 정보를 제공하지 않습니다. 대신, 피부 상태와 분갈이에 대한 비유적인 내용이 포함되어 있습니다. 이는 질문과 전혀 관련이 없습니다.\n\n2. 답변 적절성: 2/10  \n모델의 답변은 질문에 대해서 전혀 적절하지 않습니다. 분갈이는 주로 식물에 대한 질문인데, 피부 상태나 보습제에 대한 내용이 포함되어 있어 유용하지 않습니다.\n\n종합적으로 모델의 답변은 질문에 대한 식물 관련 정보와 적절성이 부족합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192990,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 140,
+        "prompt_tokens": 459,
+        "total_tokens": 599,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

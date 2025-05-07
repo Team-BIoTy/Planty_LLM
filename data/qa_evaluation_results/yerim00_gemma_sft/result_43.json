@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr4VQkfx4iNxUmORsHvUfvUMd5r",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. **식물 정보 정확성: 10점**\n   - 모델의 답변은 고무나무의 햇빛, 온도, 습도, 물 주기 등 다양한 관리 방법에 대해 상세하고 정확한 정보를 제공합니다. 특히, 간접 햇빛이 이상적이라는 참조 답변과 동일한 맥락에서 적절한 위치 안내가 포함되어 있습니다.\n\n2. **답변 적절성: 10점**\n   - 모델의 답변은 질문에 대한 매우 적절하고 유용한 정보를 제공합니다. 고무나무를 건강하게 키우기 위한 다양한 환경적 요인과 관리 방법을 제시하였으며, 고무나무에 대한 추가적인 유용한 팁까지 포함되어 있어 독자가 실질적으로 어떻게 식물을 돌봐야 하는지 명확하게 이해할 수 있도록 돕고 있습니다.\n\n종합적으로, 모델의 답변은 고무나무에 관한 질문에 대해 매우 유익하고 정확한 정보를 제공하고 있으며, 여러 측면에서 접근하고 있어 점수를 높게 부여합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192994,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 230,
+        "prompt_tokens": 770,
+        "total_tokens": 1000,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

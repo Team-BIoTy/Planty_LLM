@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr49dmpBYBxLGwA4Y3G3b4ZW9PK",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 산세베리아에 대해 빛, 온도, 습도, 물주기 등 필요한 환경조건에 대한 정확하고 구체적인 정보를 제공하고 있습니다. 참조 답변과 일관되며, 산세베리아의 특성과 관련된 추가 정보까지 포함되어 있어 매우 유용합니다.\n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 대해 매우 적절하며, 사용자가 산세베리아를 효과적으로 기르기 위해 필요한 정보를 종합적으로 제공합니다. 각 항목에 대한 세부 사항이 잘 설명되어 있어 유익합니다. \n\n종합적으로 모델의 답변은 정확하고 유용하며, 산세베리아의 성장 환경을 이해하는 데 큰 도움이 됩니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192994,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 177,
+        "prompt_tokens": 771,
+        "total_tokens": 948,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

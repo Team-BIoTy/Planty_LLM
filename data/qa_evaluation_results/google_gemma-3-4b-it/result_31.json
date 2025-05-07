@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmI0U7ADhoWleX4AEMlShWn2QXA",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 상추 재배에 관한 정확하고 유용한 정보를 제공합니다. 상추는 실내에서도 재배할 수 있으며, 햇빛, 물 주기, 흙, 온도 및 습도 등 여러 요소를 고려해야 한다는 점을 잘 설명하였습니다. 참조 답변과 일치하며, 추가적인 세부 정보를 제공합니다.\n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 매우 적절하고 실용적인 정보를 제시합니다. 실내에서 상추를 재배하는 방법을 다양한 측면에서 설명하였으며, 실제 재배 시 유용한 팁들을 포함하고 있습니다. 사용자가 실내 상추 재배를 위한 충분한 정보를 얻을 수 있도록 명확하게 구성되어 있습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192698,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 183,
+        "prompt_tokens": 760,
+        "total_tokens": 943,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

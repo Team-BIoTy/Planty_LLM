@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr0g2Aa5FqggbmBUOtlejvDivup",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 해당 없음  \n   - 이 질문은 식물의 분갈이에 대한 것이고, 모델의 답변은 개와 고양이의 치아 건강에 대한 내용으로 전혀 관련이 없습니다. \n\n2. 답변 적절성: 1점  \n   - 모델의 답변은 질문에 전혀 관련이 없고, 제공된 정보를 바탕으로 식물에 대한 적절한 설명이 부족합니다. 분갈이에 대한 내용을 전혀 다루지 않으며, 질문자의 의도를 전혀 충족하지 못하고 있습니다.\n\n결론적으로, 모델의 답변은 전혀 적절하지 않으며, 식물과 관련된 정보가 없음으로 인해 평가 점수는 낮습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192990,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 158,
+        "prompt_tokens": 762,
+        "total_tokens": 920,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

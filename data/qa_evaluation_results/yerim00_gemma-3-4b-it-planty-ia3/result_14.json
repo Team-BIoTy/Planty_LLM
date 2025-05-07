@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkp7dSpdTwc8hIs6UBECjaPUwCOs",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 해당 없음  \n이 질문은 물 온도에 관한 것이며, 참조 답변과 모델 답변 모두 식물에 대한 정보를 제공하지 않습니다. 그래서 이 항목은 적용되지 않습니다.\n\n2. 답변 적절성: 3점  \n모델의 답변은 주로 물고기 종류에 대한 적절한 온도를 제공하며, 온도 변화 시 주의사항과 팁도 포함하고 있지만, 질문은 식물에 관한 것이었습니다. 따라서, 질문에 대한 적합성이 낮아 3점을 부여합니다. 질문에 맞는 식물에 대한 정보나 조언이 필요했으나 모델은 이를 부적절하게 물고기 관련 정보로 대체했습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192873,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 159,
+        "prompt_tokens": 579,
+        "total_tokens": 738,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr5v9eBPtAb5GUMN4d7kZbOIzGg",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 고무나무 잎에 먼지를 관리하는 여러 가지 방법을 제시하고 있으며, 참조 답변에서 언급한 '젖은 천으로 부드럽게 닦아주는' 방법을 포함하고 있습니다. 추가적으로 설명된 여러 방법(분무기 사용, 잎 세척용 솔, 가습기 사용 등)은 모두 적절하고 유용한 정보로, 고무나무 관리에 대한 지식을 잘 반영하고 있습니다.\n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 대해 포괄적이고 실용적인 정보를 제공합니다. 먼지를 닦는 방법부터 예방 및 유지 관리까지, 다양한 접근 방식을 제안하고 있어 독자가 이해하기 쉽게 유익한 내용을 제공합니다. 이러한 점에서 모델의 답변은 질문에 매우 적합하고 유용합니다. \n\n종합적으로, 이 모델의 응답은 정보의 정확성과 적절성 모두에서 매우 높은 수준을 보이고 있습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192995,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 228,
+        "prompt_tokens": 643,
+        "total_tokens": 871,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

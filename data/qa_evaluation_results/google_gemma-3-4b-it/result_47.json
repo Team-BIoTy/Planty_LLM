@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmOoC9virn0t6LjLbtJkbujsLZx",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. **식물 정보 정확성: 10/10**\n   - 모델의 답변은 스킨답서스를 물꽂이로 키우는 데 필요한 정확한 정보와 주의사항을 상세하게 설명하고 있습니다. 물 조건, 광조건, 그리고 정착 기간에 대한 구체적인 내용은 스킨답서스를 성장시키는 데 매우 유용하며, 참조 답변과 일치합니다.\n\n2. **답변 적절성: 10/10**\n   - 모델의 답변은 질문에 대한 모든 관련 정보를 충분히 제공하고 있습니다. 물꽂이 방법, 관리 방법, 주의사항 등을 포함하여 사용자가 스킨답서스를 성공적으로 물꽂이로 키울 수 있도록 돕는 데 매우 적절하고 유용합니다. 질문에 대한 명확하고 실질적인 답변을 제공하고 있어 교육적인 가치가 높습니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192704,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 194,
+        "prompt_tokens": 769,
+        "total_tokens": 963,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

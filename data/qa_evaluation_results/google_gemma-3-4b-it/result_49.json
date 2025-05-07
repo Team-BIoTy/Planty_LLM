@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkmOeUYBsqGpCHIUnSX5y0fubSZS",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 겨울철 관엽식물 관리에 대한 정확하고 구체적인 정보를 제공합니다. 적정 온도, 습도, 광량, 물주기 등 여러 측면에서 충분하고 관련된 세부 사항을 잘 설명하고 있습니다. 식물에 관한 정보가 참조 답변과 일치하며, 추가적인 유용한 팁도 제공합니다.\n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 매우 적절하고 유용합니다. 겨울철 관엽식물 관리에 대해 질문한 사용자의 요구를 충족하며, 실질적인 관리 방법을 상세히 설명하여 독자가 쉽게 이해하고 실천할 수 있도록 돕습니다. 모든 필수 요소가 잘 포함되어 있어 문제 해결에 크게 기여합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192704,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 186,
+        "prompt_tokens": 778,
+        "total_tokens": 964,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

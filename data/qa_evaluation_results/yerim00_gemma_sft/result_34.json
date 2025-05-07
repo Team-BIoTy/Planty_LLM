@@ -1,0 +1,39 @@
+{
+    "id": "chatcmpl-BSkr070G2jLMNKLLQYl4ed3EW2SAB",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "1. 식물 정보 정확성: 10점  \n모델의 답변은 실내 작물에 필요한 다양한 조명의 종류에 대해 매우 정확하고 상세한 정보를 제공합니다. LED 조명에 대한 설명, LED의 종류와 장단점, 형광등, 메탈 할라이드 램프, 나트륨 램프, 고압 나트륨 램프에 대한 설명도 매우 유익하고 정확합니다. 식물의 성장 단계에 따른 조명 사용에 대한 정보 또한 매우 유용합니다.\n\n2. 답변 적절성: 10점  \n모델의 답변은 질문에 대한 포괄적이고 구체적인 내용을 포함하고 있어, 실내 작물에 필요한 조명 종류에 대한 명확하고 유용한 정보를 제공합니다. 다양한 조명 옵션을 설명하고 그 장단점을 나열한 점이 특히 적절합니다. 또한 식물 성장 단계에 따른 조명 추천까지 포함되어 있어 실용적인 조언을 제공합니다.",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1746192990,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": "fp_129a36352a",
+    "usage": {
+        "completion_tokens": 211,
+        "prompt_tokens": 758,
+        "total_tokens": 969,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}
