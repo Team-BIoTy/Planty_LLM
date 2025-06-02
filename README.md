@@ -1,5 +1,4 @@
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="20"/>
-<img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=HuggingFace&logoColor=white" height="20"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="20"/> <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=HuggingFace&logoColor=white" height="20"/>
 
 
 # 🌱 Planty_LLM
